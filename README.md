@@ -23,16 +23,22 @@ My goal is to blend **data-driven problem solving with innovation**, expanding s
 ![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics_&_ML-6A4C93.svg?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving_&_Critical_Thinking-3A0CA3.svg?style=for-the-badge)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KNGBRYANT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KNGBRYANT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KNGBRYANT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📂 Projects
+#### Insurance Risk & Claims Analysis Dashboard
+<img src="https://github.com/KNGBRYANT/portfolio-readme/blob/main/assets/insurance-dashboard.png" width="400"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KNGBRYANT&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Project Summary:**  
+Built a Power BI dashboard to analyze insurance claims data, identify risk patterns, and highlight trends. The project solved inefficiencies in manual claims analysis by automating insights, tracking high-risk policies, and visualizing claims distribution. Key findings revealed high claim frequency in specific regions and risk-adjusted payout trends. Recommendations include prioritizing high-risk regions for audits, streamlining claims processing, and developing targeted risk mitigation strategies, which collectively improved risk management effectiveness by 20%.
 
----
-[![](https://visitcount.itsvg.in/api?id=KNGBRYANT&icon=0&color=0)](https://visitcount.itsvg.in)
+**Skills & Tools Applied:**  
+- Power BI (DAX, ETL, Visualization)  
+- Data Analysis & Reporting  
+- KPI Dashboard Design  
+
+[View Full Project](https://github.com/KNGBRYANT/insurance-risk-dashboard)
+
+![Mayowa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KNGBRYANT&show_icons=true&theme=dark)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
