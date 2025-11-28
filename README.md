@@ -3,11 +3,26 @@ I’m a Data Analyst who transforms raw data into clear, actionable insights tha
 ![My Profile Photo](WhatsApp%20Image%202025-11-28%20at%2021.08.51_c36b1f41.jpg)
 
 # 💫 About Me:
-I am data analyst with a strong foundation in statistics (BSc – 2nd class upper, MSc) and a passion about transforming data into actionable insights. My journey began with theoretical applications, but now I’m focused on solving real-world problems through data analysis and data science.💡<br><br>Currently, I work as a data analyst at Curacel, where I apply statistical methods and analytics tools to drive insights and support decision-making. My experience includes working with SQL, Tableau and Excel, alongside ongoing efforts to strengthen my Python skills for advanced analytics and automation.✨<br><br>As I continue to grow, I’m exploring machine learning and currently working on developing my first model. I have the goal of becoming a full-fledged data scientist before December, 2025.<br><br>Long-term, I aspire to blend research, teaching, and impact as a professor in statistics and data science, while contributing to meaningful advancements in the field.🚀<br><br>Numbers have always come naturally to me—maybe it runs in the family, as my dad is a professor of mathematics. Beyond data, I also care about gender equality and hope to advocate for it in the future.✨<br><br>I’m open to opportunities, collaborations, and meaningful conversations in data analysis, data science, and machine learning. 🚀<br><br>Let’s connect!✨<br>Things to know about me:<br><br>🔭 I’m currently working on my first Predictive Model<br>🌱 I’m currently learning Python for Data Analysis and Application Development<br>👯 I’m looking to collaborate on Data ANalytics Projects<br>🤔 I’m looking for help with Research work, tutoring and Data Ananlytics<br>💬 Ask me about Research, Data Science, Training and Teaching<br>📫 How to reach me: +2348132359210<br>My Website https://olufunmilola.innotechdev.com/<br>My Email address is Olufunmilolaolapejuolaewe@gmail.com<br>⚡ Fun fact: I have a Man-U fan just because my Husband is one 😄, He taught me all i know about football, I love fried meat 😆
+I bring a strong foundation in **engineering operations, system diagnostics, and performance monitoring** to every dataset I work with. During my **Data Analyst internship at HNG**, I cleaned, validated, and integrated **100,000+ data points**, developed automated **Power BI dashboards** that improved reporting clarity by **35%**, and streamlined workflows to save **10+ hours weekly**.
+
+I work with **Python, SQL, Excel, and Power BI**, translating complex operational and business data into actionable insights. I am **continuously learning and building projects**, from predictive maintenance dashboards to user behaviour analyses, focusing on insights that drive measurable business outcomes.
+
+My goal is to blend **data-driven problem solving with innovation**, expanding skills in **advanced analytics and machine learning**, while delivering solutions that improve efficiency, decision-making, and operational performance.
+
 
 
 # 💻 Tech Stack:
-![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Org Mode](https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Storytelling](https://img.shields.io/badge/Communication_&_Data_Storytelling-4B0082.svg?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning_&_Validation-0A9396.svg?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistical_Analysis-EE6C4D.svg?style=for-the-badge)
+![Operational Data](https://img.shields.io/badge/Operational_Data_Translation-14213D.svg?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics_&_ML-6A4C93.svg?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving_&_Critical_Thinking-3A0CA3.svg?style=for-the-badge)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KNGBRYANT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KNGBRYANT&theme=dark&hide_border=false)<br/>
