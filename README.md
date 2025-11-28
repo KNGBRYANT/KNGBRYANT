@@ -35,7 +35,9 @@ Built a Power BI dashboard to analyze insurance claims data, identify risk patte
 - Data Analysis & Reporting  
 - KPI Dashboard Design  
 
-[View Full Project](https://github.com/KNGBRYANT/insurance-risk-dashboard)
+[View Full Project](https://github.com/KNGBRYANT/Insurance-Risk-Claims-Analysis-Power-BI-Project)  
+[View Live Dashboard](https://your-dashboard-link.com)
+
 
 ![Mayowa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KNGBRYANT&show_icons=true&theme=dark)
 
