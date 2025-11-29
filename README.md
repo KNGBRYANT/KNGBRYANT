@@ -38,13 +38,14 @@ Built a Power BI dashboard to analyze insurance claims data, identify risk patte
 - KPI Dashboard Design  
 
 [View Full Project](https://github.com/KNGBRYANT/Insurance-Risk-Claims-Analysis-Power-BI-Project)  
-[View Live Dashboard](https://your-dashboard-link.com)
+[Full Project Breakdown](https://app.powerbi.com/view?r=eyJrIjoiZmE1OWM5NTctMzVhNS00MzQ5LThhODQtMGE4ZWRmY2M3NDBiIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9)
+
 
 <details>
-  <summary>📂 View More Projects</summary>
+  <summary>👉 Click here to view more projects 📂</summary>
 
 ### SEO & Keyword Analytics in Nigerian Consumer Banking
-<img src="[https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Screenshot%202025-11-29%20003057.png](https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Screenshot%202025-11-29%20022555.png)" style="max-width:100%; height:auto;">
+<img src="https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Screenshot%202025-11-29%20022555.png" style="max-width:100%; height:auto;">
 
 **Project Summary:**  
 Built a Power BI dashboard analyzing SEO visibility for Nigerian consumer banks, linking keyword performance to profitability. The project automated keyword extraction (85 banking keywords) via SerpApi, enriched with monthly search volumes, competition, and profit (PAT), and visualized insights. Key findings: UBA dominates with 32% visibility share; a weak positive correlation exists between SEO visibility and profit. Recommendations: invest in targeted content for high-PAT, low-SEO banks, optimize conversion for high-SEO, low-PAT banks, and monitor SERP ranks monthly to maximize ROI.
@@ -57,8 +58,8 @@ Built a Power BI dashboard analyzing SEO visibility for Nigerian consumer banks,
 - SQL (data manipulation & analysis)  
 
 **Links:**  
-- [View Dashboard]([https://your-dashboard-link.com](https://app.powerbi.com/view?r=eyJrIjoiZmVhOGIzOTItYjRhZi00NDMwLTk2YWItMWQ0NTdiNzg4YjVmIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9))  
-- [Full Report PDF](https://github.com/KNGBRYANT/SEO-Visibility-and-Profitability-Analysis)
+- [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmVhOGIzOTItYjRhZi00NDMwLTk2YWItMWQ0NTdiNzg4YjVmIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9)
+- [Full Project Breakdown](https://github.com/KNGBRYANT/SEO-Visibility-and-Profitability-Analysis)
 
 
 ### Project 6
