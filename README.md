@@ -25,7 +25,9 @@ My goal is to blend **data-driven problem solving with innovation**, expanding s
 
 ## 📂 Projects
 #### Insurance Risk & Claims Analysis Dashboard
-<img src="https://github.com/KNGBRYANT/portfolio-readme/blob/main/assets/insurance-dashboard.png" width="400"/>
+<img src="https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Screenshot%202025-11-29%20003057.png" style="max-width:100%; height:auto;">
+
+
 
 **Project Summary:**  
 Built a Power BI dashboard to analyze insurance claims data, identify risk patterns, and highlight trends. The project solved inefficiencies in manual claims analysis by automating insights, tracking high-risk policies, and visualizing claims distribution. Key findings revealed high claim frequency in specific regions and risk-adjusted payout trends. Recommendations include prioritizing high-risk regions for audits, streamlining claims processing, and developing targeted risk mitigation strategies, which collectively improved risk management effectiveness by 20%.
@@ -38,8 +40,47 @@ Built a Power BI dashboard to analyze insurance claims data, identify risk patte
 [View Full Project](https://github.com/KNGBRYANT/Insurance-Risk-Claims-Analysis-Power-BI-Project)  
 [View Live Dashboard](https://your-dashboard-link.com)
 
+<details>
+  <summary>📂 View More Projects</summary>
 
-![Mayowa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KNGBRYANT&show_icons=true&theme=dark)
+### Project 5
+*Short summary here*  
+[View Full Project](https://github.com/KNGBRYANT/project5)
+
+### Project 6
+*Short summary here*  
+[View Full Project](https://github.com/KNGBRYANT/project6)
+
+### Project 7
+*Short summary here*  
+[View Full Project](https://github.com/KNGBRYANT/project7)
+
+</details>
+
+
+## 🎓 Training & Certifications
+
+- **Power BI Essentials** – Data visualization, DAX, dashboards  
+- **Python for Data Analysis** – Pandas, NumPy, Matplotlib  
+- **SQL for Data Analysis** – Data querying and management  
+- **AI & Machine Learning Basics** – Intro to predictive modeling
+- **Microsoft Excel for Data Analysis** – PivotTables, formulas, charts, and data modeling  
+- **Data Analytics Job Simulation** – Hands-on project-based learning
+
+<p align="center">
+🤝 Behind every project is a problem to solve and a story to tell. Thanks for stopping by, let’s create something impactful together.
+
+</p>
+<p align="center">
+📫 Contact Me  
+<br>
+📧 <a href="mailto:lawalmayowa95@gmail.com">Email</a> | 
+💼 <a href="https://www.linkedin.com/in/KNGBRYANT">LinkedIn</a> | 
+🌐 <a href="https://KNGBRYANT.github.io">Portfolio</a> | 
+🐙 <a href="https://github.com/KNGBRYANT">GitHub</a>
+</p>
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
