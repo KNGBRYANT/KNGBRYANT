@@ -73,6 +73,102 @@ Built a Power BI dashboard analyzing SEO visibility for Nigerian consumer banks,
 </details>
 
 
+
+## Services I Offer
+
+<details>
+<summary>Data Analysis & Business Intelligence</summary>
+
+- Power BI dashboard development
+- Executive KPI reporting
+- Excel automation (Power Query, pivots, formulas)
+- SQL-based analysis for business decisions
+- Exploratory Data Analysis (EDA)
+- Financial, operational, and market insights
+
+</details>
+
+<details>
+<summary>Data Cleaning & Preparation</summary>
+
+- Cleaning and restructuring large datasets
+- Handling missing values and outliers
+- Data normalization and transformation
+- Merging multiple data sources
+- ETL workflows using SQL or Python
+
+</details>
+
+<details>
+<summary>Dashboard & Automation Solutions</summary>
+
+- Interactive dashboards (Power BI, Streamlit)
+- Automated reporting systems
+- Real-time business monitoring tools
+- Custom mini-analytics apps
+
+</details>
+
+<details>
+<summary>Machine Learning & Predictive Insights</summary>
+
+- Predictive modeling (sales, churn, demand, risk)
+- Customer segmentation and profiling
+- Time-series forecasting
+- NLP for text insights (reviews, complaints, chats)
+- Deployment of models into applications
+
+</details>
+
+<details>
+<summary>AI & Prompt Engineering</summary>
+
+- AI-powered automation solutions
+- Prompt design and optimization
+- Integrating AI into business workflows
+- Custom AI assistants and chatbot setups
+- Evaluation and quality control of AI outputs
+
+</details>
+
+
+## Services I Offer
+
+### Data Analysis & Business Intelligence
+- Power BI dashboards
+- KPI reporting
+- Excel automation
+- SQL analysis
+- EDA & insights
+
+### Data Cleaning & Preparation
+- Large dataset cleaning
+- Handling missing values
+- Data normalization
+- Merging sources
+- ETL workflows
+
+### Dashboard & Automation Solutions
+- Interactive dashboards
+- Automated reporting
+- Real-time monitoring
+- Custom analytics apps
+
+### Machine Learning & Predictive Insights
+- Predictive modeling
+- Customer segmentation
+- Time-series forecasting
+- NLP insights
+- Model deployment
+
+### AI & Prompt Engineering
+- AI automation solutions
+- Prompt design & optimization
+- Workflow integration
+- AI assistants & chatbots
+- Quality control of AI outputs
+
+
 ## 🎓 Training & Certifications
 
 - **Power BI Essentials** – Data visualization, DAX, dashboards  
@@ -85,6 +181,7 @@ Built a Power BI dashboard analyzing SEO visibility for Nigerian consumer banks,
 <p align="center">
 🤝 Behind every project is a problem to solve and a story to tell. Thanks for stopping by, let’s create something impactful together.
 
+<!--
 </p>
 <p align="center">
 📫 Contact Me  
@@ -96,7 +193,23 @@ Built a Power BI dashboard analyzing SEO visibility for Nigerian consumer banks,
 </p>
 
 
+---
+-->  
+## HIRE ME
 
+
+
+> I turn complex data into clarity, insight, and tools that help organizations make smarter decisions.
+
+###  Services I Offer
+- Power BI & Excel dashboard development  
+- Business data analysis & reporting  
+- SQL data cleaning + transformation  
+- Machine learning & AI solutions  
+- Process automation  
+- Remote freelance & contract work
+---
+<p align="center"> <strong>Contact Me</strong><br> <sub>Tap any link below to connect</sub><br><br> 📧 <a href="mailto:lawalmayowa95@gmail.com">Email</a> | 💼 <a href="https://www.linkedin.com/in/KNGBRYANT">LinkedIn</a> | 🌐 <a href="https://KNGBRYANT.github.io">Portfolio</a> | 🐙 <a href="https://github.com/KNGBRYANT">GitHub</a> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
