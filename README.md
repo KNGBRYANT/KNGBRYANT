@@ -63,110 +63,101 @@ Built a Power BI dashboard analyzing SEO visibility for Nigerian consumer banks,
 
 
 ### Project 6
-*Short summary here*  
+*Coming soon*   
 [View Full Project](https://github.com/KNGBRYANT/project6)
 
 ### Project 7
-*Short summary here*  
+*Coming soon*  
 [View Full Project](https://github.com/KNGBRYANT/project7)
 
 </details>
 
-
-
 ## Services I Offer
 
-<details>
-<summary>Data Analysis & Business Intelligence</summary>
+<table>
+<tr>
+<td valign="top">
 
-- Power BI dashboard development
-- Executive KPI reporting
-- Excel automation (Power Query, pivots, formulas)
-- SQL-based analysis for business decisions
-- Exploratory Data Analysis (EDA)
-- Financial, operational, and market insights
+<details>
+<summary><strong>Data Analysis & Business Intelligence</strong></summary>
+
+- Power BI dashboard development  
+- Executive KPI reporting  
+- Excel automation (Power Query, pivots, formulas)  
+- SQL-based analysis for business decisions  
+- Exploratory Data Analysis (EDA)  
+- Financial, operational, and market insights  
 
 </details>
 
-<details>
-<summary>Data Cleaning & Preparation</summary>
+</td>
+<td valign="top">
 
-- Cleaning and restructuring large datasets
-- Handling missing values and outliers
-- Data normalization and transformation
-- Merging multiple data sources
-- ETL workflows using SQL or Python
+<details>
+<summary><strong>Data Cleaning & Preparation</strong></summary>
+
+- Cleaning and restructuring large datasets  
+- Handling missing values and outliers  
+- Data normalization and transformation  
+- Merging multiple data sources  
+- ETL workflows using SQL or Python  
 
 </details>
 
-<details>
-<summary>Dashboard & Automation Solutions</summary>
+</td>
+</tr>
 
-- Interactive dashboards (Power BI, Streamlit)
-- Automated reporting systems
-- Real-time business monitoring tools
-- Custom mini-analytics apps
+<tr>
+<td valign="top">
+
+<details>
+<summary><strong>Dashboard & Automation Solutions</strong></summary>
+
+- Interactive dashboards (Power BI, Streamlit)  
+- Automated reporting systems  
+- Real-time business monitoring tools  
+- Custom mini-analytics apps for organizations  
 
 </details>
 
-<details>
-<summary>Machine Learning & Predictive Insights</summary>
+</td>
+<td valign="top">
 
-- Predictive modeling (sales, churn, demand, risk)
-- Customer segmentation and profiling
-- Time-series forecasting
-- NLP for text insights (reviews, complaints, chats)
-- Deployment of models into applications
+<details>
+<summary><strong>Machine Learning & Predictive Insights</strong></summary>
+
+- Predictive modeling (sales, churn, demand, risk)  
+- Customer segmentation and profiling  
+- Time-series forecasting  
+- NLP for text insights (reviews, complaints, chats)  
+- Deployment of models into simple applications  
 
 </details>
 
-<details>
-<summary>AI & Prompt Engineering</summary>
+</td>
+</tr>
 
-- AI-powered automation solutions
-- Prompt design and optimization
-- Integrating AI into business workflows
-- Custom AI assistants and chatbot setups
-- Evaluation and quality control of AI outputs
+<tr>
+<td valign="top">
+
+<details>
+<summary><strong>AI & Prompt Engineering</strong></summary>
+
+- AI-powered automation solutions  
+- Prompt design and optimization  
+- Integrating AI into business workflows  
+- Custom AI assistants and chatbot setups  
+- Evaluation and quality control of AI outputs  
 
 </details>
 
+</td>
+<td></td>
+</tr>
+</table>
 
-## Services I Offer
 
-### Data Analysis & Business Intelligence
-- Power BI dashboards
-- KPI reporting
-- Excel automation
-- SQL analysis
-- EDA & insights
 
-### Data Cleaning & Preparation
-- Large dataset cleaning
-- Handling missing values
-- Data normalization
-- Merging sources
-- ETL workflows
-
-### Dashboard & Automation Solutions
-- Interactive dashboards
-- Automated reporting
-- Real-time monitoring
-- Custom analytics apps
-
-### Machine Learning & Predictive Insights
-- Predictive modeling
-- Customer segmentation
-- Time-series forecasting
-- NLP insights
-- Model deployment
-
-### AI & Prompt Engineering
-- AI automation solutions
-- Prompt design & optimization
-- Workflow integration
-- AI assistants & chatbots
-- Quality control of AI outputs
 
 
 ## 🎓 Training & Certifications
