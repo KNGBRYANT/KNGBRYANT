@@ -24,10 +24,28 @@ My goal is to blend **data-driven problem solving with innovation**, expanding s
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving_&_Critical_Thinking-3A0CA3.svg?style=for-the-badge)
 
 ## 📂 Projects
+### E-commerce Performance Analysis & Executive Dashboard (2019–2023)
+
+![Executive Dashboard](Executive_Dashboard.png)
+
+### Project Summary
+Built an end-to-end Power BI dashboard to analyze e-commerce performance across revenue, orders, profit, and customer segments from 2019–2023. The solution eliminated manual reporting inefficiencies by automating KPI tracking, YoY performance comparisons, and category-level insights.  
+Key findings revealed a **17% return rate impacting margins**, **a 35–44 age group contributing the highest profit**, and **payment shifts increasing operational risk by 38%**.  
+The recommendations include optimizing the product mix, improving return management, and stabilizing payment methods helping strengthen decision-making efficiency and improve overall reporting accuracy by **30%**.
+
+
+### Skills & Tools Applied
+- Power BI (DAX Measures, ETL, Data Modeling)  
+- Data Visualization & Reporting  
+- KPI & Executive Dashboard Design  
+- Trend & Category Performance Analysis
+
+**Links:**  
+- [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmI1YzcwMmYtYTMzOC00NzE5LWJlMzYtZTZlMDViYTc5M2Y2IiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9)
+- [Full Project Breakdown](https://github.com/KNGBRYANT/Executive-Performance-Summary-Dashboard-5-Year-Analytical-Report-2019-2023-)
+
 #### Insurance Risk & Claims Analysis Dashboard
 <img src="https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Screenshot%202025-11-29%20003057.png" style="max-width:100%; height:auto;">
-
-
 
 **Project Summary:**  
 Built a Power BI dashboard to analyze insurance claims data, identify risk patterns, and highlight trends. The project solved inefficiencies in manual claims analysis by automating insights, tracking high-risk policies, and visualizing claims distribution. Key findings revealed high claim frequency in specific regions and risk-adjusted payout trends. Recommendations include prioritizing high-risk regions for audits, streamlining claims processing, and developing targeted risk mitigation strategies, which collectively improved risk management effectiveness by 20%.
@@ -37,8 +55,9 @@ Built a Power BI dashboard to analyze insurance claims data, identify risk patte
 - Data Analysis & Reporting  
 - KPI Dashboard Design  
 
-[View Full Project](https://github.com/KNGBRYANT/Insurance-Risk-Claims-Analysis-Power-BI-Project)  
-[Full Project Breakdown](https://app.powerbi.com/view?r=eyJrIjoiZmE1OWM5NTctMzVhNS00MzQ5LThhODQtMGE4ZWRmY2M3NDBiIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9)
+**Links:**  
+- [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmI1YzcwMmYtYTMzOC00NzE5LWJlMzYtZTZlMDViYTc5M2Y2IiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9)
+- [Full Project Breakdown](https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Executive_Dashboard.png)
 
 
 <details>
@@ -155,6 +174,7 @@ Built a Power BI dashboard analyzing SEO visibility for Nigerian consumer banks,
 <td></td>
 </tr>
 </table>
+<p align="center"><em>Click on each service above to expand and see details.</em></p>
 
 
 
@@ -192,13 +212,12 @@ Built a Power BI dashboard analyzing SEO visibility for Nigerian consumer banks,
 
 > I turn complex data into clarity, insight, and tools that help organizations make smarter decisions.
 
-###  Services I Offer
-- Power BI & Excel dashboard development  
-- Business data analysis & reporting  
-- SQL data cleaning + transformation  
-- Machine learning & AI solutions  
-- Process automation  
-- Remote freelance & contract work
+### Available For
+- Remote contract work  
+- Freelance projects  
+- Dashboard development  
+- Data analysis & reporting  
+- Machine learning solutions
 ---
 <p align="center"> <strong>Contact Me</strong><br> <sub>Tap any link below to connect</sub><br><br> 📧 <a href="mailto:lawalmayowa95@gmail.com">Email</a> | 💼 <a href="https://www.linkedin.com/in/KNGBRYANT">LinkedIn</a> | 🌐 <a href="https://KNGBRYANT.github.io">Portfolio</a> | 🐙 <a href="https://github.com/KNGBRYANT">GitHub</a> </p>
 
