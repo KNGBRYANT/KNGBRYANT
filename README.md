@@ -45,6 +45,7 @@ The recommendations include optimizing the product mix, improving return managem
 - [Full Project Breakdown](https://github.com/KNGBRYANT/Executive-Performance-Summary-Dashboard-5-Year-Analytical-Report-2019-2023-)
 
 #### Insurance Risk & Claims Analysis Dashboard
+
 <img src="https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Screenshot%202025-11-29%20003057.png" style="max-width:100%; height:auto;">
 
 **Project Summary:**  
