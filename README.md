@@ -2,10 +2,6 @@
 I’m a Data Analyst who transforms raw data into clear, actionable insights that help teams make smarter, faster decisions.
 ![My Profile Photo](WhatsApp%20Image%202025-11-28%20at%2021.08.51_c36b1f41.jpg)
 
-<img src="Dashboard_Overview.jpg" width="400">**Project Summary:** Delivered a high-impact Power BI dashboard analyzing four years of e-commerce performance. Insights from product trends guided inventory and marketing strategies.
-
-
-
 # 💫 About Me:
 I bring a strong foundation in **engineering operations, system diagnostics, and performance monitoring** to every dataset I work with. During my **Data Analyst internship at HNG**, I cleaned, validated, and integrated **100,000+ data points**, developed automated **Power BI dashboards** that improved reporting clarity by **35%**, and streamlined workflows to save **10+ hours weekly**.
 
@@ -28,7 +24,7 @@ My goal is to blend **data-driven problem solving with innovation**, expanding s
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving_&_Critical_Thinking-3A0CA3.svg?style=for-the-badge)
 
 ## 📂 Projects
-
+![DashBoard Overview](Dashboard_Overview.jpg)
 
 #### Project Summary
 Delivered a high-impact Power BI dashboard for Mayomide Store analyzing four years of e-commerce performance (2020–2023) across Sales, Profit, Profit Margin, Quantity, and Average Discount. The solution revealed a 20.9% profit increase between 2020 and 2021, identified Europe as the top-performing market, and pinpointed the 20–30 age group as the most profitable segment. Insights from product trends guided inventory and marketing strategies, enabling faster, data-driven decisions and improved operational visibility.
@@ -36,7 +32,7 @@ Delivered a high-impact Power BI dashboard for Mayomide Store analyzing four yea
 **Tools:** Power BI, DAX, Excel, Power Query
 **Links:** [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNhMjc1NWEtYjQ2Yi00ZDY2LWE1OGQtMzQ2NTIzNTdmMTJiIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9), [Full Project Breakdown](https://github.com/KNGBRYANT/Mayomide-Store-Analytics-Dashboard/tree/main)
 
-
+---
 
 ### E-commerce Performance Analysis & Executive Dashboard (2019–2023)
 
@@ -48,23 +44,19 @@ Developed a high-impact Power BI solution analyzing five years of e-commerce per
 **Tools:** Power BI, DAX, Excel, Power Query
 **Links:** [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmI1YzcwMmYtYTMzOC00NzE5LWJlMzYtZTZlMDViYTc5M2Y2IiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9), [Full Project Breakdown](https://github.com/KNGBRYANT/Executive-Performance-Summary-Dashboard-5-Year-Analytical-Report-2019-2023-)
 
+---
 
 ### Insurance Risk & Claims Analysis Dashboard
 
 <img src="https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Screenshot%202025-11-29%20003057.png" style="max-width:100%; height:auto;">
 
-**Project Summary:**  
-Built a Power BI dashboard to analyze insurance claims data, identify risk patterns, and highlight trends. The project solved inefficiencies in manual claims analysis by automating insights, tracking high-risk policies, and visualizing claims distribution. Key findings revealed high claim frequency in specific regions and risk-adjusted payout trends. Recommendations include prioritizing high-risk regions for audits, streamlining claims processing, and developing targeted risk mitigation strategies, which collectively improved risk management effectiveness by 20%.
+## Project Summary
+Developed a Power BI solution that transforms raw insurance claims data into a clear risk-intelligence dashboard. The system automates pattern detection, flags high-risk policies, and visualizes claim frequency and payout behavior across regions. The analysis exposed concentrated risk clusters, uneven claim intensities, and payout trends that directly impact portfolio stability. These insights enabled targeted audits, streamlined processing, and sharper risk-mitigation strategies—boosting overall risk-management effectiveness by 20%.
 
-**Skills & Tools Applied:**  
-- Power BI (DAX, ETL, Visualization)  
-- Data Analysis & Reporting  
-- KPI Dashboard Design  
+**Tools:** Power BI, DAX, Data Analysis, KPI Dashboard Design  
+**Links:** [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmI1YzcwMmYtYTMzOC00NzE5LWJlMzYtZTZlMDViYTc5M2Y2IiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9), [Full Project Breakdown](https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Executive_Dashboard.png)
 
-**Links:**  
-- [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmI1YzcwMmYtYTMzOC00NzE5LWJlMzYtZTZlMDViYTc5M2Y2IiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9)
-- [Full Project Breakdown](https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Executive_Dashboard.png)
-
+---
 
 <details>
   <summary>👉 Click here to view more projects 📂</summary>
@@ -78,6 +70,8 @@ Developed a streamlined Power BI solution that maps SEO visibility to profitabil
 **Tools:** Power BI, Google Apps Script, SerpApi, Excel/Google Sheets, SQL  
 **Links:** [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmVhOGIzOTItYjRhZi00NDMwLTk2YWItMWQ0NTdiNzg4YjVmIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9), [Full Project Breakdown](https://github.com/KNGBRYANT/SEO-Visibility-and-Profitability-Analysis)
 
+---
+I’m gradually curating more projects to showcase here(greatness takes time). In the meantime, you can explore my full repository [here](https://github.com/KNGBRYANT?tab=repositories).
 
 
 ### Project 6
