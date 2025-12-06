@@ -46,6 +46,9 @@ Developed a high-impact Power BI solution analyzing five years of e-commerce per
 
 ---
 
+<details>
+  <summary>👉 Click here to view more projects 📂</summary>
+
 ### Insurance Risk & Claims Analysis Dashboard
 
 <img src="https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Screenshot%202025-11-29%20003057.png" style="max-width:100%; height:auto;">
@@ -57,9 +60,6 @@ Developed a Power BI solution that transforms raw insurance claims data into a c
 **Links:** [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmI1YzcwMmYtYTMzOC00NzE5LWJlMzYtZTZlMDViYTc5M2Y2IiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9), [Full Project Breakdown](https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Executive_Dashboard.png)
 
 ---
-
-<details>
-  <summary>👉 Click here to view more projects 📂</summary>
 
 ### SEO & Keyword Analytics in Nigerian Consumer Banking
 <img src="https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Screenshot%202025-11-29%20022555.png" style="max-width:100%; height:auto;">
