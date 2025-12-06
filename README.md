@@ -2,6 +2,10 @@
 I’m a Data Analyst who transforms raw data into clear, actionable insights that help teams make smarter, faster decisions.
 ![My Profile Photo](WhatsApp%20Image%202025-11-28%20at%2021.08.51_c36b1f41.jpg)
 
+<img src="Dashboard_Overview.jpg" width="400">**Project Summary:** Delivered a high-impact Power BI dashboard analyzing four years of e-commerce performance. Insights from product trends guided inventory and marketing strategies.
+
+
+
 # 💫 About Me:
 I bring a strong foundation in **engineering operations, system diagnostics, and performance monitoring** to every dataset I work with. During my **Data Analyst internship at HNG**, I cleaned, validated, and integrated **100,000+ data points**, developed automated **Power BI dashboards** that improved reporting clarity by **35%**, and streamlined workflows to save **10+ hours weekly**.
 
@@ -24,27 +28,28 @@ My goal is to blend **data-driven problem solving with innovation**, expanding s
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving_&_Critical_Thinking-3A0CA3.svg?style=for-the-badge)
 
 ## 📂 Projects
+
+
+#### Project Summary
+Delivered a high-impact Power BI dashboard for Mayomide Store analyzing four years of e-commerce performance (2020–2023) across Sales, Profit, Profit Margin, Quantity, and Average Discount. The solution revealed a 20.9% profit increase between 2020 and 2021, identified Europe as the top-performing market, and pinpointed the 20–30 age group as the most profitable segment. Insights from product trends guided inventory and marketing strategies, enabling faster, data-driven decisions and improved operational visibility.
+
+**Tools:** Power BI, DAX, Excel, Power Query
+**Links:** [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNhMjc1NWEtYjQ2Yi00ZDY2LWE1OGQtMzQ2NTIzNTdmMTJiIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9), [Full Project Breakdown](https://github.com/KNGBRYANT/Mayomide-Store-Analytics-Dashboard/tree/main)
+
+
+
 ### E-commerce Performance Analysis & Executive Dashboard (2019–2023)
 
 ![Executive Dashboard](Executive_Dashboard.png)
 
-### Project Summary
-Built an end-to-end Power BI dashboard to analyze e-commerce performance across revenue, orders, profit, and customer segments from 2019–2023. The solution eliminated manual reporting inefficiencies by automating KPI tracking, YoY performance comparisons, and category-level insights.  
-Key findings revealed a **17% return rate impacting margins**, **a 35–44 age group contributing the highest profit**, and **payment shifts increasing operational risk by 38%**.  
-The recommendations include optimizing the product mix, improving return management, and stabilizing payment methods helping strengthen decision-making efficiency and improve overall reporting accuracy by **30%**.
+#### Project Summary
+Developed a high-impact Power BI solution analyzing five years of e-commerce performance across revenue, orders, profit, and customer segments (2019–2023). The dashboard automated KPI tracking, year-over-year comparisons, and category-level insights, replacing inefficient manual reporting. The analysis uncovered a 17% return rate reducing margins, the 35–44 age group as the highest-profit segment, and payment behavior shifts driving a 38% rise in operational risk. The insights guided optimised product mix, return reduction strategies, and payment stability improvements, strengthening decision-making accuracy by 30%.
+
+**Tools:** Power BI, DAX, Excel, Power Query
+**Links:** [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmI1YzcwMmYtYTMzOC00NzE5LWJlMzYtZTZlMDViYTc5M2Y2IiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9), [Full Project Breakdown](https://github.com/KNGBRYANT/Executive-Performance-Summary-Dashboard-5-Year-Analytical-Report-2019-2023-)
 
 
-### Skills & Tools Applied
-- Power BI (DAX Measures, ETL, Data Modeling)  
-- Data Visualization & Reporting  
-- KPI & Executive Dashboard Design  
-- Trend & Category Performance Analysis
-
-**Links:**  
-- [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmI1YzcwMmYtYTMzOC00NzE5LWJlMzYtZTZlMDViYTc5M2Y2IiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9)
-- [Full Project Breakdown](https://github.com/KNGBRYANT/Executive-Performance-Summary-Dashboard-5-Year-Analytical-Report-2019-2023-)
-
-#### Insurance Risk & Claims Analysis Dashboard
+### Insurance Risk & Claims Analysis Dashboard
 
 <img src="https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Screenshot%202025-11-29%20003057.png" style="max-width:100%; height:auto;">
 
@@ -67,19 +72,12 @@ Built a Power BI dashboard to analyze insurance claims data, identify risk patte
 ### SEO & Keyword Analytics in Nigerian Consumer Banking
 <img src="https://github.com/KNGBRYANT/KNGBRYANT/blob/main/Screenshot%202025-11-29%20022555.png" style="max-width:100%; height:auto;">
 
-**Project Summary:**  
-Built a Power BI dashboard analyzing SEO visibility for Nigerian consumer banks, linking keyword performance to profitability. The project automated keyword extraction (85 banking keywords) via SerpApi, enriched with monthly search volumes, competition, and profit (PAT), and visualized insights. Key findings: UBA dominates with 32% visibility share; a weak positive correlation exists between SEO visibility and profit. Recommendations: invest in targeted content for high-PAT, low-SEO banks, optimize conversion for high-SEO, low-PAT banks, and monitor SERP ranks monthly to maximize ROI.
+#### Project Summary
+Developed a streamlined Power BI solution that maps SEO visibility to profitability for major Nigerian consumer banks. Automated extraction of 85 industry-specific keywords via SerpApi, enriched the dataset with monthly search volumes, competition metrics, and profit (PAT), and built a unified dashboard revealing how search performance aligns with financial outcomes. The analysis highlights UBA’s 32% dominance in visibility and uncovers a weak but meaningful positive correlation between SEO strength and profit. These insights support smarter content investment, improved conversion strategies for mismatched SEO–PAT profiles, and consistent SERP monitoring to protect visibility ROI.
 
-**Tools Applied:**  
-- Power BI (visualization, dashboards, KPIs)  
-- Google Apps Script (automation & API calls)  
-- SerpApi (SEO data extraction)  
-- Excel / Google Sheets (data cleaning, transformation, enrichment)  
-- SQL (data manipulation & analysis)  
+**Tools:** Power BI, Google Apps Script, SerpApi, Excel/Google Sheets, SQL  
+**Links:** [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmVhOGIzOTItYjRhZi00NDMwLTk2YWItMWQ0NTdiNzg4YjVmIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9), [Full Project Breakdown](https://github.com/KNGBRYANT/SEO-Visibility-and-Profitability-Analysis)
 
-**Links:**  
-- [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmVhOGIzOTItYjRhZi00NDMwLTk2YWItMWQ0NTdiNzg4YjVmIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9)
-- [Full Project Breakdown](https://github.com/KNGBRYANT/SEO-Visibility-and-Profitability-Analysis)
 
 
 ### Project 6
