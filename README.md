@@ -24,6 +24,8 @@ My goal is to blend **data-driven problem solving with innovation**, expanding s
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving_&_Critical_Thinking-3A0CA3.svg?style=for-the-badge)
 
 ## 📂 Projects
+
+### Mayomide Store Sales & Profit Analytics Dashboard
 ![DashBoard Overview](Dashboard_Overview.jpg)
 
 #### Project Summary
